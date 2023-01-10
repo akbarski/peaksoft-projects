@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peaksoft-projects/static/css/main.0a1bee9f.css",
+    "main.js": "/peaksoft-projects/static/js/main.ab5bc369.js",
+    "static/js/787.a75bb5ca.chunk.js": "/peaksoft-projects/static/js/787.a75bb5ca.chunk.js",
+    "index.html": "/peaksoft-projects/index.html",
+    "main.0a1bee9f.css.map": "/peaksoft-projects/static/css/main.0a1bee9f.css.map",
+    "main.ab5bc369.js.map": "/peaksoft-projects/static/js/main.ab5bc369.js.map",
+    "787.a75bb5ca.chunk.js.map": "/peaksoft-projects/static/js/787.a75bb5ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1bee9f.css",
+    "static/js/main.ab5bc369.js"
+  ]
+}
